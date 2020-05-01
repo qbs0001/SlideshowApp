@@ -18,6 +18,7 @@ class nextViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        // 受け渡された画像を表示する
         let image = UIImage(named: name)
         imageView.image = image
         // Do any additional setup after loading the view.
