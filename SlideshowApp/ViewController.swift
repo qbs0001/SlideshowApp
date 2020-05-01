@@ -102,7 +102,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        // イチゴを初期表示
+        // 001を初期表示
         let image = UIImage(named: "001")
         imageView.image = image
         
